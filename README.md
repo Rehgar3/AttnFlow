@@ -1,3 +1,3 @@
 # AttnFlow
 It's a repository of the article: Conditional Attention Guided Normalizing Flow for Low-light Image Enhancement.
-The code will be made available after the article is accepted.
+Code is being cleaned up and will be released as soon as possible.
